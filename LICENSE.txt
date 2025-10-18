@@ -1,3 +1,7 @@
+CC BY-NC 4.0 License
+
+Copyright (c) 2025 MillenTec
+
 Attribution-NonCommercial 4.0 International
 
 =======================================================================
