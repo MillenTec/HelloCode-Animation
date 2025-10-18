@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hello Code After Effects 项目</h1>
 <img src="img/Project Image/Project Image.png" width="100%" alt="Header Image">
+<p>简体中文 | <a href="README.md">English</a>
 <h3>为2025年1024程序员日制作的MG动画</h3>
 
 <hr>

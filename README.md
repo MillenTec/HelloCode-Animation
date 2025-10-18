@@ -1,6 +1,7 @@
 <div align="center">
 <h1>Hello Code After Effects Project</h1>
 <img src="img/Project Image/Project Image.png" width="100%" alt="Header Image">
+<p><a href="README.zh-cn.md">简体中文</a> | English
 <h3>MG animation made for the 1024 Programmer's Day in 2025</h3>
 
 <hr>
