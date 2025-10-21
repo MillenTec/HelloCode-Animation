@@ -60,14 +60,13 @@
 
 ## 5.发布平台
 ### 5.1.开源项目
-- GitHub
+- **GitHub**
   - https://github.com/MillenTec/HelloCode-Animation
   - 所有的修改都会第一时间push到GitHub仓库，你可以在这里获取到最新的项目源文件
-- Gitee
+- **Gitee**
   - https://gitee.com/MillenTec/HelloCode-Animation
   - 供中国大陆地区用户访问的镜像站点，预计会每周从GitHub进行一次同步
-- 蓝奏云
-  - 具体查看bilibili视频发布后简介处留下的链接
+
 ### 5.2.动画发布
 - **仅[bilibili](https://space.bilibili.com/3546591566760474)**
 
@@ -88,7 +87,7 @@
   - 位于[the-third-party](the-third-party/Saber.zip)中，安装请参阅压缩包中的`Installation.txt`文件
 
 ## 联系我
-- [bilibili](https://space.bilibili.com/3546591566760474)
-- [GitHub](https://github.com/MillenTec)
-- [Gitee](https://gitee.com/MillenTec)
-- 邮箱：MillenTec@outlook.com
+- **[bilibili](https://space.bilibili.com/3546591566760474)**
+- **[GitHub](https://github.com/MillenTec)**
+- **[Gitee](https://gitee.com/MillenTec)**
+- **邮箱**：MillenTec@outlook.com

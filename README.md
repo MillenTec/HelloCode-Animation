@@ -61,14 +61,12 @@ However, you must also comply with the following conditions:
 
 ## 5. Release Platforms
 ### 5.1 Open Source Projects
-- GitHub  
+- **GitHub**  
   - https://github.com/MillenTec/HelloCode-Animation  
   - All modifications will be pushed to the GitHub repository first, and you can get the latest source files here.
-- Gitee  
+- **Gitee**
   - https://gitee.com/MillenTec/HelloCode-Animation  
   - A mirror site for users in mainland China; it is expected to sync with GitHub once a week.
-- Lanzou Cloud  
-  - Please check the link provided in the description of the Bilibili video after publishing.
 
 ### 5.2 Animation Release
 - **Only on [Bilibili](https://space.bilibili.com/3546591566760474)**
@@ -92,7 +90,7 @@ However, you must also comply with the following conditions:
   - Located in [the-third-party](the-third-party/Saber.zip); installation instructions are provided in the `Installation.txt` file within the compressed package.
 
 ## Contact Me
-- [Bilibili](https://space.bilibili.com/3546591566760474)
-- [GitHub](https://github.com/MillenTec)
-- [Gitee](https://gitee.com/MillenTec)
-- Email: MillenTec@outlook.com
+- **[Bilibili](https://space.bilibili.com/3546591566760474)**
+- **[GitHub](https://github.com/MillenTec)**
+- **[Gitee](https://gitee.com/MillenTec)**
+- **Email**: MillenTec@outlook.com
