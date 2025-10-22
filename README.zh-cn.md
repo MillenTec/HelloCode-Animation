@@ -66,6 +66,7 @@
 - **Gitee**
   - https://gitee.com/MillenTec/HelloCode-Animation
   - 供中国大陆地区用户访问的镜像站点，预计会每周从GitHub进行一次同步
+>注：开源项目的`.prproj`文件中的主轨道视频文件并不包含在项目中（脱机），它是Ae渲染出的视频文件，您可以在将Ae主合成渲染完成后，将主轨道的素材替换为您渲染出来的视频文件
 
 ### 5.2.动画发布
 - **仅[bilibili](https://space.bilibili.com/3546591566760474)**
@@ -86,7 +87,7 @@
   - 用于光效
   - 位于[the-third-party](the-third-party/Saber.zip)中，安装请参阅压缩包中的`Installation.txt`文件
 
-## 联系我
+## 7.联系我
 - **[bilibili](https://space.bilibili.com/3546591566760474)**
 - **[GitHub](https://github.com/MillenTec)**
 - **[Gitee](https://gitee.com/MillenTec)**

@@ -9,7 +9,7 @@
 
 >First of all, my English is not very good, so I used AI to help me translate the English version of the README. Therefore, there may be some translation errors or inappropriate parts. Please forgive me.
 
-This is an MG animation created using **After Effects**, which connects various programming languages and IDEs through the clue of **"Hello World"**. It is made to celebrate this special day for developers on October 24th, in honor of every programmer who loves coding.
+This is an MG animation created using `After Effects`, which connects various programming languages and IDEs through the clue of **"Hello World"**. It is made to celebrate this special day for developers on October 24th, in honor of every programmer who loves coding.
 
 ## 1. Project Overview
 I am a beginner with After Effects, learning AE knowledge while making open-source projects. This is my second AE work, and I would appreciate your guidance from more experienced peers.
@@ -67,6 +67,7 @@ However, you must also comply with the following conditions:
 - **Gitee**
   - https://gitee.com/MillenTec/HelloCode-Animation  
   - A mirror site for users in mainland China; it is expected to sync with GitHub once a week.
+>Note: The main track video file in the `.prproj` file of an open source project is not included in the project (offline). It is a video file rendered by Ae. After you have completed rendering the main composition in Ae, you can replace the main track's material with the video file you have rendered.
 
 ### 5.2 Animation Release
 - **Only on [Bilibili](https://space.bilibili.com/3546591566760474)**
@@ -89,7 +90,7 @@ However, you must also comply with the following conditions:
   - Used for lighting effects
   - Located in [the-third-party](the-third-party/Saber.zip); installation instructions are provided in the `Installation.txt` file within the compressed package.
 
-## Contact Me
+## 7.Contact Me
 - **[Bilibili](https://space.bilibili.com/3546591566760474)**
 - **[GitHub](https://github.com/MillenTec)**
 - **[Gitee](https://gitee.com/MillenTec)**
