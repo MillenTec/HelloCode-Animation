@@ -48,7 +48,7 @@ This is a detailed reposting/adaptation guide, which serves as a supplement and 
 **What You Can Do:**  
 - **No Application Required:** As long as you comply with the [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt) license terms, you do not need to apply for reposting. You can directly repost the video. You can download the rendered, watermark-free 4K 120fps original video (H.265) from [GitHub Releases](https://github.com/MillenTec/HelloCode-Animation/releases).
 
-#### 3.2. Reposting on Other Platforms  
+#### 3.2.2. Reposting on Other Platforms  
 **What You Need:**  
 - **Attribution:** You must include the following or equivalent text in the video description:  
   ```text
