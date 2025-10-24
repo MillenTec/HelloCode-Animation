@@ -25,12 +25,69 @@
 - **改编** — 修改、转换、基于本作品进行再创作
    
 但你同时需要遵守以下条件：
-- **署名** — 你必须注明原始作者（**MillenTec**）和出处（**Bilibili源视频**），并提供原始协议链接
+- **署名** — 你必须注明原始作者（**[MillenTec](https://space.bilibili.com/3546591566760474)**）和出处（**[Bilibili源视频](https://www.bilibili.com/video/BV1v8sbzQEiU)**），并提供原始协议链接
 - **非商业性使用** — **你不得将本作品用于商业用途**
 
 >简单来说，只要您不将它用于商业用途，并且署上原作者的名字，您可以将它用于任何用途（具体还请查看[CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)）
 
-## 3.目录结构
+
+## 3.转载/改编指南
+这是详细的转载/改编说明，是对于上面开源协议的补充和解释，如果您遵循上面的要求，就基本不会违反我们的协议，如果您希望了解细节，请继续阅读
+### 3.1.转载（无内容改动）
+#### 3.1.1.bilibili内转载
+**您需要：**
+- **署名**：您需要在视频简介处包括以下或同义文字
+  ```text
+  转载自@MillenTec
+  原视频：BV1v8sbzQEiU
+  原视频开源协议：CC BY-NC 4.0
+  ```
+- **转载声明**：您需要声明为`转载`，并且将投稿`类型`设置为`转载`
+
+**您可以：**
+- **无需申请**：只要遵守[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)协议的要求，您无需向我申请转载，您可以直接转载视频，您可以在[GitHub Releases](https://github.com/MillenTec/HelloCode-Animation/releases)下载到渲染好的无水印的4K 120fps原视频（H.265）
+
+#### 3.1.2.其他平台转载
+**您需要：**
+- **署名**：您需要在视频简介处包括以下或同义文字
+  ```text
+  转载自[bilibili@MillenTec](https://space.bilibili.com/3546591566760474)
+  原视频：[Hello Code](https://www.bilibili.com/video/BV1v8sbzQEiU)
+  原视频开源协议：CC BY-NC 4.0
+- **转载声明**：您需要声明为`转载`，并且将投稿`类型`设置为`转载`（如果平台支持）
+
+**您可以：**
+- **无需申请**：只要遵守[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)协议的要求，您无需向我申请转载，您可以直接转载视频，您可以在[GitHub Releases](https://github.com/MillenTec/HelloCode-Animation/releases)下载到渲染好的无水印的4K 120fps原视频（H.265）
+
+### 3.2.改编
+**您需要：**
+- **署名并声明改编**：您需要在发布视频/项目的简介/README处包含以下文字
+  ```markdown
+  ## 此项目基于开源项目`Hello Code`改编
+  **改编自MillenTec：**
+  - [bilibili](https://space.bilibili.com/3546591566760474)
+  - [GitHub](https://github.com/MillenTec)
+  - [Gitee](https://gitee.com/MillenTec/HelloCode-Animation)
+  **源项目：**
+  - [bilibili](https://www.bilibili.com/video/BV1v8sbzQEiU)
+  - [GitHub](https://github.com/MillenTec/HelloCode-Animation)
+  - [Gitee](https://gitee.com/MillenTec/HelloCode-Animation)
+  **源项目开源协议：**[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)
+  **开源范围：**Illustrator工程文件、Premiere Pro工程文件
+
+  该项目遵循源项目的开源协议要求，对原作者署名并用于非商用用途
+  ```
+- **不得用于商业用途**：无论出于任何形式的改编，都**不得用于商业用途**
+- **如果改编项目开源**，您需要：
+  - **附带原许可证副本（如果开源）**：如果您的改编项目将要开源，您必须在开源项目根目录中包含`LICENSE.original`，内容与[LICENSE.txt](LICENSE.txt)一致
+  - **使用非商用协议开源**：您可以选择任何您喜欢的开源协议来开源您的项目，但是要求必须为**非商用协议**，即协议**不得允许商用**
+  - **溯源**：我希望基于您的项目再创作的项目，也包含该项目的链接及bilibili视频链接，这有助于项目的溯源，不过这**不是硬性要求**
+
+**您可以：**
+- **无需申请**：您可以无需申请即对项目进行改编并再发布
+- **非必要开源**：您基于我的项目改编的项目**可以闭源**，但是我衷心希望您为开源社区贡献您的一份力
+
+## 4.目录结构
 ```powershell
 .
 ├── Ai/ #所有原始矢量插图 (Adobe Illustrator 源文件)
@@ -43,23 +100,23 @@
 └── README.zh-cn.md #自述文件（zh-CN）
 ```
 
-## 4.环境及平台
-### 4.1.软件环境
+## 5.环境及平台
+### 5.1.软件环境
 - **Windows 11 25H2**
 - **Adobe Illustrator 2024**
 - **Adobe After Effects 2024**
 - **Adobe Premiere Pro 2024**
 >请使用对应（或更高）的Adobe版本打开工程文件
 
-### 4.2.硬件平台
+### 5.2.硬件平台
 - **Intel Core i7-12700H**
 - **NVIDIA GeForce RTX 3060 Laptop GPU**
 - **6GB GDDR6 VRAM**
 - **8GB*2 DDR5 4800MT/s RAM**
 > 你的设备可能需要达到或超过此规格才能较流畅地在Ae中回放动画
 
-## 5.发布平台
-### 5.1.开源项目
+## 6.发布平台
+### 6.1.开源项目
 - **GitHub**
   - https://github.com/MillenTec/HelloCode-Animation
   - 所有的修改都会第一时间push到GitHub仓库，你可以在这里获取到最新的项目源文件
@@ -68,13 +125,13 @@
   - 供中国大陆地区用户访问的镜像站点，预计会每周从GitHub进行一次同步
 >注：开源项目的`.prproj`文件中的主轨道视频文件并不包含在项目中（脱机），它是Ae渲染出的视频文件，您可以在将Ae主合成渲染完成后，将主轨道的素材替换为您渲染出来的视频文件
 
-### 5.2.动画发布
+### 6.2.动画发布
 - **仅[bilibili](https://space.bilibili.com/3546591566760474)**
 
-## 6.第三方
-### 6.1.背景音乐
+## 7.第三方
+### 7.1.背景音乐
 - **Flirting With June** - Les Gordon
-### 6.2.主要字体
+### 7.2.主要字体
 - **HarmonyOS Sans**
   - 汉字及西文
   - 阿拉伯文字及其变体
@@ -82,12 +139,12 @@
   - 有等宽需求的西文
 - **部分Windows System UI字体**
   - 少数名族语言（包括但不限于：泰语、因纽特语、波斯语、印地语等）
-### 6.3.扩展插件
+### 7.3.扩展插件
 - **Saber**
   - 用于光效
   - 位于[the-third-party](the-third-party/Saber.zip)中，安装请参阅压缩包中的`Installation.txt`文件
 
-## 7.联系我
+## 8.联系我
 - **[bilibili](https://space.bilibili.com/3546591566760474)**
 - **[GitHub](https://github.com/MillenTec)**
 - **[Gitee](https://gitee.com/MillenTec)**
