@@ -87,6 +87,9 @@ This is a detailed reposting/adaptation guide, which serves as a supplement and 
   - **Use a Non-Commercial Open Source License:** You can choose any open-source license you prefer for your project, but it must be a **non-commercial** license (i.e., the license must not allow commercial use).
   - **Traceability:** I hope that projects derived from your work will also include links to this project and the Bilibili video. This helps with traceability, although this is **not a strict requirement**.
 
+
+If you have any questions about the above content, feel free to contact me at MillenTec@outlook.com
+
 **What You Can Do:**  
 - **No Application Required:** You can adapt and re-release the project without any prior application.
 - **Optional Open Source:** Your adapted project may choose to remain closed-source, but I sincerely hope you contribute to the open-source community.
