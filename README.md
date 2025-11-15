@@ -20,8 +20,8 @@ As the 2025 October 24th Programmer's Day approaches, I wanted to make such an a
 
 In fact, the time for this animation was quite tight. My production time was roughly four full days, so there are still many details that aren't perfect. I may revise them later — you can see more in the following text; the rendering of this animation took over three hours...
 
-## 2. Open Source Information
-This work will be open-sourced under the **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)** license, which means you can:
+## 2. Creative Commons Public License (CCPL)
+This work will be released under the Creative Commons Public License **[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)**, which means you can:
 - **Share** — Replicate and distribute this work.
 - **Adapt** — Modify, convert, or create new works based on this.
 
@@ -31,8 +31,8 @@ However, you must also comply with the following conditions:
 
 > In short, as long as you do not use it for commercial purposes and attribute the original author, you can use it for any purpose (please see [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt) for details).
 
-## 3. Guidelines for Reposting/Adaptation  
-This is a detailed reposting/adaptation guide, which serves as a supplement and explanation to the license above. If you follow these guidelines, you will generally not violate our licensing terms. If you wish to understand more details, please continue reading.
+## 3. Reposting/Adaptation Guide  
+This is a detailed reposting/adaptation guide, which serves as a supplement and explanation to the Creative Commons license above. If you follow these guidelines, you will generally not violate our licensing terms. If you wish to understand more details, please continue reading.
 
 ### 3.1. Reposting (Without Content Changes)  
 #### 3.1.1. Reposting Within Bilibili  
@@ -41,7 +41,7 @@ This is a detailed reposting/adaptation guide, which serves as a supplement and 
   ```text
   Reposted from @MillenTec  
   Original Video: BV1v8sbzQEiU  
-  Original Video License: CC BY-NC 4.0
+  Original Video Creative Commons License: CC BY-NC 4.0
   ```
 - **Repost Declaration:** You must declare it as a "repost" and set the upload type to "repost."
 
@@ -54,7 +54,7 @@ This is a detailed reposting/adaptation guide, which serves as a supplement and 
   ```text
   Reposted from [bilibili@MillenTec](https://space.bilibili.com/3546591566760474)  
   Original Video: [Hello Code](https://www.bilibili.com/video/BV1v8sbzQEiU)  
-  Original Video License: CC BY-NC 4.0
+  Original Video Creative Commons License: CC BY-NC 4.0
   ```
 - **Repost Declaration:** You must declare it as a "repost" and set the upload type to "repost" (if supported by the platform).
 
@@ -76,15 +76,15 @@ This is a detailed reposting/adaptation guide, which serves as a supplement and 
   - [GitHub](https://github.com/MillenTec/HelloCode-Animation)
   - [Gitee](https://gitee.com/MillenTec/HelloCode-Animation)
 
-  **Source Project License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)  
-  **Open-Source Scope:** Illustrator project files, Premiere Pro project files
+  **Source Project Creative Commons License:** [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)  
+  **Creative Commons Scope:** Illustrator project files, Premiere Pro project files
 
-  This project complies with the open-source license requirements of the source project, and it attributes to the original author for non-commercial use only.
+  This project complies with the Creative Commons license requirements of the source project, and it attributes to the original author for non-commercial use only.
   ```
 - **Non-Commercial Use Only:** Regardless of the form of adaptation, you must **not use it for commercial purposes**.
-- **If Your Adapted Project is Open Source**, You Need:  
-  - **Include a Copy of the Original License (if open-source):** If your adapted project will be open-sourced, you must include a file named `LICENSE.original` in the root directory of your open-source project. The content should match that of [LICENSE.txt](LICENSE.txt).
-  - **Use a Non-Commercial Open Source License:** You can choose any open-source license you prefer for your project, but it must be a **non-commercial** license (i.e., the license must not allow commercial use).
+- **If Your Adapted Project Releases Source Files**, You Need:  
+  - **Include a Copy of the Original License (if releasing source files):** If your adapted project will release source files, you must include a file named `LICENSE.original` in the root directory of your project. The content should match that of [LICENSE.txt](LICENSE.txt).
+  - **Use a Non-Commercial Creative Commons License to Release:** You can choose any Creative Commons license you prefer to release your project, but it must be a **non-commercial** license (i.e., the license must not allow commercial use).
   - **Traceability:** I hope that projects derived from your work will also include links to this project and the Bilibili video. This helps with traceability, although this is **not a strict requirement**.
 
 
@@ -92,7 +92,7 @@ If you have any questions about the above content, feel free to contact me at Mi
 
 **What You Can Do:**  
 - **No Application Required:** You can adapt and re-release the project without any prior application.
-- **Optional Open Source:** Your adapted project may choose to remain closed-source, but I sincerely hope you contribute to the open-source community.
+- **Optional Disclosure:** Your adapted project may choose not to release source files, but I sincerely hope you contribute to the Creative Commons community.
 
 ## 4. Directory Structure
 ```powershell
@@ -123,14 +123,14 @@ If you have any questions about the above content, feel free to contact me at Mi
 > Your device may need to meet or exceed these specifications for smooth playback in After Effects.
 
 ## 6. Release Platforms
-### 6.1 Open Source Projects
+### 6.1 Project Source Files
 - **GitHub**  
   - https://github.com/MillenTec/HelloCode-Animation  
   - All modifications will be pushed to the GitHub repository first, and you can get the latest source files here.
 - **Gitee**
   - https://gitee.com/MillenTec/HelloCode-Animation  
   - A mirror site for users in mainland China; it is expected to sync with GitHub once a week.
->Note: The main track video file in the `.prproj` file of an open source project is not included in the project (offline). It is a video file rendered by Ae. After you have completed rendering the main composition in Ae, you can replace the main track's material with the video file you have rendered.
+>Note: The main track video file in the `.prproj` file of a Creative Commons project is not included in the project (offline). It is a video file rendered by Ae. After you have completed rendering the main composition in Ae, you can replace the main track's material with the video file you have rendered.
 
 ### 6.2 Animation Release
 - **Only on [Bilibili](https://space.bilibili.com/3546591566760474)**
