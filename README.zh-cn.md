@@ -28,7 +28,11 @@
 - **署名** — 你必须注明原始作者（**[MillenTec](https://space.bilibili.com/3546591566760474)**）和出处（**[Bilibili源视频](https://www.bilibili.com/video/BV1v8sbzQEiU)**），并提供原始协议链接
 - **非商业性使用** — **你不得将本作品用于商业用途**
 
->简单来说，只要您不将它用于商业用途，并且署上原作者的名字，您可以将它用于任何用途（具体还请查看[CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)）
+> [TIP]
+> 简单来说，只要您不将它用于商业用途，并且署上原作者的名字，您可以将它用于任何用途（具体还请查看[CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt)）
+
+> [!IMPORTANT]
+> 此项不使用于项目中任何第三方内容，仅适用于其中的动效
 
 
 ## 3.转载/改编指南
@@ -146,6 +150,8 @@
 - **Saber**
   - 用于光效
   - 位于[the-third-party](the-third-party/Saber.zip)中，安装请参阅压缩包中的`Installation.txt`文件
+### 7.4.音效
+- **Adobe Audition Sound Effects**
 
 ## 8.联系我
 - **[bilibili](https://space.bilibili.com/3546591566760474)**

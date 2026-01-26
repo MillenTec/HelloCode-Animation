@@ -29,7 +29,11 @@ However, you must also comply with the following conditions:
 - **Attribution** — You must credit the original author (**MillenTec**) and source (Bilibili video), and provide a link to the original license.
 - **Non-commercial Use** — **You may not use this work for commercial purposes.**
 
+> [!TIP]
 > In short, as long as you do not use it for commercial purposes and attribute the original author, you can use it for any purpose (please see [CC BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/legalcode.txt) for details).
+
+> [!IMPORTANT]
+> This item is not used for any third-party content in the project and is only applicable to its animations. 
 
 ## 3. Reposting/Adaptation Guide  
 This is a detailed reposting/adaptation guide, which serves as a supplement and explanation to the Creative Commons license above. If you follow these guidelines, you will generally not violate our licensing terms. If you wish to understand more details, please continue reading.
@@ -141,10 +145,10 @@ If you have any questions about the above content, feel free to contact me at Mi
 
 ### 7.2 Main Fonts
 - **HarmonyOS Sans**
-  - Chinese characters and Western text
+  - Chinese characters and Latin characters
   - Arabic script and its variants
 - **JetBrains Mono**
-  - Western text requiring monospacing
+  - Latin characters requiring monospacing
 - **Some Windows System UI fonts**
   - Minority languages (including but not limited to: Thai, Inuktitut, Persian, Hindi, etc.)
 
@@ -152,6 +156,8 @@ If you have any questions about the above content, feel free to contact me at Mi
 - **Saber**
   - Used for lighting effects
   - Located in [the-third-party](the-third-party/Saber.zip); installation instructions are provided in the `Installation.txt` file within the compressed package.
+### 7.4.Sound Effects
+- **Adobe Audition Sound Effects**
 
 ## 8.Contact Me
 - **[Bilibili](https://space.bilibili.com/3546591566760474)**
